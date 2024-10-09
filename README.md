@@ -1,4 +1,3 @@
-ConsultaSuper
 ConsultaSuper es un sistema de gestión web desarrollado en Java que permite a los usuarios consultar y visualizar información relacionada con un supermercado. Este proyecto utiliza tecnologías como Servlets y JSP para interactuar con una base de datos MySQL, facilitando la administración de datos de clientes, productos y ventas.
 
 Características
